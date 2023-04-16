@@ -1,5 +1,6 @@
-<link rel="stylesheet" href="/css/swagger-ui-themes/swagger-ui.css" />
-<script src="/js/swagger-ui-bundle.js" crossorigin></script>
+<link rel="stylesheet" href="https://unpkg.com/swagger-ui-dist@4.5.0/swagger-ui.css" />
+<script src="https://unpkg.com/swagger-ui-dist@4.5.0/swagger-ui-bundle.js" crossorigin></script>
+<script src="https://unpkg.com/swagger-ui-dist@4.5.0/swagger-ui-standalone-preset.js" crossorigin></script>
 
 <script>
   window.onload = () => {
