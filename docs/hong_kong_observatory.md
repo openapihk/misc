@@ -6,7 +6,7 @@
   window.onload = () => {
     window.ui = SwaggerUIBundle({
       url: 'https://raw.githubusercontent.com/openapihk/hong_kong_observatory/main/weather.yaml',
-      dom_id: '#swagger-ui--weather',
+      dom_id: '#swagger-ui-weather',
     });    
   };
 </script>
