@@ -11,4 +11,5 @@
   };
 </script>
 
+Please note you cannot try the API from swagger due to access-control-allow-origin issue.
 <div id="swagger-ui-aedwt"></div>
