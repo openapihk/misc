@@ -21,5 +21,8 @@ By using our materials, you agree to comply with the terms and conditions of the
 
 Please note that the Apache License 2.0 does not apply to any third-party software or materials that may be included with or used by our repository. You are responsible for complying with any applicable licenses and terms of use for such third-party software or materials.
 
-## Undocumented/private APIs
-Undocumented/private APIs can be changed or removed without any notice, which can cause applications to stop working or behave unexpectedly. APIs may be protected by intellectual property laws or terms of service agreements, and using them without permission can lead to legal consequences.
+## Private APIs
+Third-party access to private APIs is not intended and may be blocked by implemented mechanisms. The APIs described on this website and in repositories are for informational purposes only and are not intended to encourage or facilitate misuse. It is important to note that private APIs may be subject to change or removal without notice, which could result in unexpected application behavior. Furthermore, unauthorized use of APIs may violate intellectual property laws or terms of service agreements, leading to potential legal consequences.
+
+## Undocumented APIs
+Undocumented APIs can be changed or removed without any notice, which can cause applications to stop working or behave unexpectedly. APIs may be protected by intellectual property laws or terms of service agreements, and using them without permission can lead to legal consequences.
